@@ -1,0 +1,9 @@
+
+#porkbun config start
+
+RewriteEngine on
+
+#RewriteCond %{HTTP_HOST} !^guynnr\.design [NC]
+#Rewriterule ^(.*)$ http://guynnr.design/$1 [R,L]
+
+#porkbun config end
