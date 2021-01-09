@@ -18,7 +18,7 @@
 })(jQuery);
 // Anchor && links
 (function () {
-    let d= document;
+    let d = document;
     function init() {
         // links
         let post1anchor = d.getElementById('post1anchor');
